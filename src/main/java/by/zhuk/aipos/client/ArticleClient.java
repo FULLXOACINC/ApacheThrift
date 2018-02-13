@@ -15,7 +15,7 @@ import java.util.List;
 
 public class ArticleClient extends Thread implements ArticleThriftService.Iface {
 
-    private final MainWindow mainWindow;
+    private final  ArticleComponent articleComponent;
     private TTransport transport;
 
     private ArticleThriftService.Client client;
@@ -25,10 +25,10 @@ public class ArticleClient extends Thread implements ArticleThriftService.Iface 
     private String host;
 
 
-    public ArticleClient(String host, int port, MainWindow mainWindow) {
+    public ArticleClient(String host, int port, ArticleComponent articleComponent) {
         this.host = host;
         this.port = port;
-        this.mainWindow = mainWindow;
+        this.articleComponent = articleComponent;
     }
 
     public void run() {
@@ -38,7 +38,8 @@ public class ArticleClient extends Thread implements ArticleThriftService.Iface 
             TProtocol protocol = new TBinaryProtocol(transport);
             client = new ArticleThriftService.Client(protocol);
             transport.open();
-            //mainWindow.updateTable();
+            articleComponent.setClient(this);
+            articleComponent.updatePanel();
         } catch (TException e) {
 
             System.exit(-1);
@@ -57,12 +58,12 @@ public class ArticleClient extends Thread implements ArticleThriftService.Iface 
 
     @Override
     public void saveArticle(ArticleThrift articleThrift) throws TException {
-
+        client.saveArticle(articleThrift);
     }
 
     @Override
     public ArticleThrift getArticle(String name) throws TException {
-        return null;
+        return client.getArticle(name);
     }
 
     @Override

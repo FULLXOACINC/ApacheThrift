@@ -1,10 +1,6 @@
 package by.zhuk.aipos.client;
 
 
-import by.zhuk.aipos.client.ArticleClient;
-import by.zhuk.aipos.client.ArticleComponent;
-import by.zhuk.aipos.client.ExitAdapter;
-import by.zhuk.aipos.model.Article;
 import by.zhuk.aipos.thrift.ArticleThrift;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
@@ -12,18 +8,8 @@ import org.apache.log4j.Logger;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Pattern;
 
-import org.apache.log4j.Logger;
 import org.apache.thrift.TException;
-
-import javax.swing.*;
-import java.awt.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Pattern;
 
 public class MainWindow {
 
@@ -41,7 +27,7 @@ public class MainWindow {
     private final static String IMG_PATCH = "img/";
 
     public MainWindow() {
-        frame = new JFrame("Thrifts Student Client");
+        frame = new JFrame("Thrifts Java Client");
         host = "127.0.0.1";
         port = 8080;
         frame.setLayout(new BorderLayout());
@@ -49,13 +35,18 @@ public class MainWindow {
         frame.setSize(800, 600);
         frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         frame.addWindowListener(new ExitAdapter(this));
-        articleComponent = new ArticleComponent(this);
+        articleComponent = new ArticleComponent();
         frame.add(articleComponent, BorderLayout.CENTER);
         frame.setVisible(true);
     }
 
-    private void updateTable() {
+    public void updateTable() {
         logger.info("Update table");
+        try {
+            System.out.println(articleClient.getArticlesName());
+        } catch (TException e) {
+            logger.error(e);
+        }
         articleComponent.updatePanel();
     }
 
@@ -69,13 +60,13 @@ public class MainWindow {
 
     private void addArticle() {
         logger.info("Add new student");
-//        ArticleDialog dialog = new StudentDialog(this, "Add new Student");
-//        dialog.show();
-//        updateTable();
+        AddDialog dialog = new AddDialog(articleClient, "Add Article");
+        dialog.show();
+        articleComponent.updatePanel();
     }
 
     private void deleteArticle() {
-        ArticleThrift articleThrift = articleComponent.getSelectedStudent();
+        ArticleThrift articleThrift = articleComponent.getSelectedArticle();
         if (articleThrift != null) {
             logger.info("Remove student");
             int confirm = JOptionPane.showOptionDialog(
@@ -84,7 +75,7 @@ public class MainWindow {
                     JOptionPane.QUESTION_MESSAGE, null, null, null);
             if (confirm == 0) {
                 try {
-                    getStudentClient().deleteArticle(articleThrift.getName());
+                    getArticleClient().deleteArticle(articleThrift.getName());
                 } catch (TException e) {
                     e.printStackTrace();
                 }
@@ -105,20 +96,17 @@ public class MainWindow {
     }
 
     private void runClient() {
-        articleClient = new ArticleClient(host, port, this);
+        articleClient = new ArticleClient(host, port, articleComponent);
         articleClient.start();
+
     }
 
     public void transportClose() {
         articleClient.transportClose();
     }
 
-    public ArticleClient getStudentClient() {
+    public ArticleClient getArticleClient() {
         return articleClient;
-    }
-
-    public JFrame getFrame() {
-        return frame;
     }
 
     private JButton makeButton(JButton button, String imgString, ActionListener action) {

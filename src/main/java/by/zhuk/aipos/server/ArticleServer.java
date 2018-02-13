@@ -23,7 +23,7 @@ public class ArticleServer {
     private static JTextArea textArea;
 
     public ArticleServer() {
-        articleService = new ArticleService() ;
+        articleService = new ArticleService(this) ;
     }
 
     public static void main(String[] args) {
@@ -45,7 +45,6 @@ public class ArticleServer {
         try {
             TNonblockingServerTransport serverTransport = new TNonblockingServerSocket(PORT);
             ArticleThriftService.Processor<ArticleThriftServiceImpl> processor = new ArticleThriftService.Processor<>(new ArticleThriftServiceImpl());
-
             TServer server = new TNonblockingServer(new TNonblockingServer.Args(serverTransport).
                     processor(processor));
             textArea.append("SERVER START");
@@ -61,4 +60,7 @@ public class ArticleServer {
     }
 
 
+    public void log(String s) {
+        textArea.append(s+"\n");
+    }
 }
