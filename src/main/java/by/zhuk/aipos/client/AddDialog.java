@@ -79,7 +79,7 @@ public class AddDialog {
                     "Not valid",
                     JOptionPane.ERROR_MESSAGE);
         } else {
-            saveStudent();
+            saveArticle();
         }
     }
 
@@ -90,7 +90,7 @@ public class AddDialog {
                 getTextID(CODE_EXAMPLE).isEmpty();
     }
 
-    private void saveStudent() {
+    private void saveArticle() {
         ArticleThrift article = new ArticleThrift(
                 getTextID(NAME), getTextID(INTRO), getTextID(BODY), getTextID(CODE_EXAMPLE)
         );

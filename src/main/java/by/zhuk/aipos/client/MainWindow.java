@@ -2,24 +2,25 @@ package by.zhuk.aipos.client;
 
 
 import by.zhuk.aipos.thrift.ArticleThrift;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
 
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+
+import org.apache.logging.log4j.Logger;
 import org.apache.thrift.TException;
 
 public class MainWindow {
 
     public static Logger logger = LogManager.getLogger(MainWindow.class);
 
-    private JFrame frame;
-
     private String host;
 
-    private int port;
+    private final int PORT = 8080;
 
     private ArticleClient articleClient;
 
@@ -27,9 +28,9 @@ public class MainWindow {
     private final static String IMG_PATCH = "img/";
 
     public MainWindow() {
-        frame = new JFrame("Thrifts Java Client");
+        JFrame frame = new JFrame("Thrifts Java Client");
         host = "127.0.0.1";
-        port = 8080;
+
         frame.setLayout(new BorderLayout());
         frame.add(createToolBar(), BorderLayout.NORTH);
         frame.setSize(800, 600);
@@ -41,12 +42,7 @@ public class MainWindow {
     }
 
     public void updateTable() {
-        logger.info("Update table");
-        try {
-            System.out.println(articleClient.getArticlesName());
-        } catch (TException e) {
-            logger.error(e);
-        }
+        logger.log(Level.INFO,"Update table");
         articleComponent.updatePanel();
     }
 
@@ -59,7 +55,7 @@ public class MainWindow {
     }
 
     private void addArticle() {
-        logger.info("Add new student");
+        logger.info("Add new article");
         AddDialog dialog = new AddDialog(articleClient, "Add Article");
         dialog.show();
         articleComponent.updatePanel();
@@ -68,7 +64,7 @@ public class MainWindow {
     private void deleteArticle() {
         ArticleThrift articleThrift = articleComponent.getSelectedArticle();
         if (articleThrift != null) {
-            logger.info("Remove student");
+            logger.info("Remove article");
             int confirm = JOptionPane.showOptionDialog(
                     null, "Are You Sure to delete article " + articleThrift.getName() + "?",
                     "Exit Confirmation", JOptionPane.YES_NO_OPTION,
@@ -83,7 +79,7 @@ public class MainWindow {
             }
         } else {
             JOptionPane.showMessageDialog(null,
-                    "Select student in table!",
+                    "Select article in table!",
                     "Not valid",
                     JOptionPane.ERROR_MESSAGE);
         }
@@ -96,7 +92,7 @@ public class MainWindow {
     }
 
     private void runClient() {
-        articleClient = new ArticleClient(host, port, articleComponent);
+        articleClient = new ArticleClient(host, PORT, articleComponent);
         articleClient.start();
 
     }

@@ -48,7 +48,9 @@ public class ArticleComponent extends JComponent {
         } catch (TException e) {
             e.printStackTrace();
         }
-
+        if(articlesList==null){
+            return;
+        }
         for (String article : articlesList) {
             JButton button = new JButton(article);
             button.addActionListener(actionEvent -> {

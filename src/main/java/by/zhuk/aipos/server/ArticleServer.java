@@ -1,7 +1,5 @@
 package by.zhuk.aipos.server;
 
-import by.zhuk.aipos.service.ArticleService;
-import by.zhuk.aipos.service.IArticleService;
 import by.zhuk.aipos.thrift.ArticleThriftService;
 import by.zhuk.aipos.thrift.ArticleThriftServiceImpl;
 import org.apache.thrift.server.TNonblockingServer;
@@ -16,14 +14,10 @@ import java.awt.*;
 public class ArticleServer {
 
 
-
-    private static IArticleService articleService;
-
     private final static int PORT = 8080;
     private static JTextArea textArea;
 
     public ArticleServer() {
-        articleService = new ArticleService(this) ;
     }
 
     public static void main(String[] args) {
@@ -44,19 +38,14 @@ public class ArticleServer {
     private void start() {
         try {
             TNonblockingServerTransport serverTransport = new TNonblockingServerSocket(PORT);
-            ArticleThriftService.Processor<ArticleThriftServiceImpl> processor = new ArticleThriftService.Processor<>(new ArticleThriftServiceImpl());
+            ArticleThriftService.Processor<ArticleThriftServiceImpl> processor = new ArticleThriftService.Processor<>(new ArticleThriftServiceImpl(this));
             TServer server = new TNonblockingServer(new TNonblockingServer.Args(serverTransport).
                     processor(processor));
-            textArea.append("SERVER START");
+            textArea.append("SERVER START\n");
             server.serve();
         } catch (TTransportException e) {
             e.printStackTrace();
         }
-    }
-
-
-    public static IArticleService getArticleService() {
-        return articleService;
     }
 
 
