@@ -1,17 +1,18 @@
 package by.zhuk.aipos.client;
 
-import by.zhuk.aipos.model.Article;
+
 import by.zhuk.aipos.thrift.ArticleThrift;
-import by.zhuk.aipos.thrift.ArticleThriftService;
 import org.apache.thrift.TException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import javax.swing.*;
 import java.awt.*;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class ArticleComponent extends JComponent {
+    private Logger logger = LoggerFactory.getLogger(ArticleComponent.class);
+
     private JPanel articles;
     private JTextArea content;
     private ArticleThrift selectedArticle;
@@ -19,8 +20,11 @@ public class ArticleComponent extends JComponent {
 
     public ArticleComponent() {
         articles = new JPanel();
-        articles.setLayout(new GridLayout(10, 1, 0, 0));
+        articles.setLayout(new GridLayout(15, 1, 0, 0));
         content = new JTextArea();
+        content.setBackground(Color.decode("#2C001E"));
+        content.setForeground(Color.WHITE);
+        content.setEnabled(false);
         setLayout(new GridLayout(1, 2, 0, 0));
         setBorder(BorderFactory.createLineBorder(Color.black));
         add(articles);
@@ -43,21 +47,25 @@ public class ArticleComponent extends JComponent {
         List<String> articlesList = null;
         try {
             articlesList = client.getArticlesName();
-            selectedArticle = client.getArticle(articlesList.get(0));
+            if (selectedArticle == null) {
+                selectedArticle = client.getArticle(articlesList.get(0));
+            } else {
+                selectedArticle = client.getArticle(selectedArticle.getName());
+            }
             updateContent();
         } catch (TException e) {
-            e.printStackTrace();
+            logger.error("", e);
         }
-        if(articlesList==null){
+        if (articlesList == null) {
             return;
         }
         for (String article : articlesList) {
             JButton button = new JButton(article);
             button.addActionListener(actionEvent -> {
                 try {
-                    selectedArticle=client.getArticle(article);
+                    selectedArticle = client.getArticle(article);
                 } catch (TException e) {
-                    e.printStackTrace();
+                    logger.error("", e);
                 }
                 updateContent();
             });
@@ -65,19 +73,18 @@ public class ArticleComponent extends JComponent {
         }
     }
 
-    private void updateContent() {
+    public void updateContent() {
         content.setText("");
-        String into =selectedArticle.getInto();
-        content.append("INTRO\n");
+        String into = selectedArticle.getInto();
+        content.append("Intro\n\n");
         content.append(into);
-        content.append("\n----------------\n");
-        String body =selectedArticle.getBody();
+        content.append("\nMain\n\n");
+        String body = selectedArticle.getBody();
         content.append(body);
-        content.append("\n----------------\n");
+        content.append("\nExamples\n\n");
 
-        String codeExample =selectedArticle.getCodeExample();
+        String codeExample = selectedArticle.getCodeExample();
         content.append(codeExample);
-        content.append("\n----------------\n");
     }
 
 

@@ -10,7 +10,6 @@ import org.apache.thrift.transport.TFramedTransport;
 import org.apache.thrift.transport.TSocket;
 import org.apache.thrift.transport.TTransport;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ArticleClient extends Thread implements ArticleThriftService.Iface {
@@ -37,10 +36,7 @@ public class ArticleClient extends Thread implements ArticleThriftService.Iface 
             TProtocol protocol = new TBinaryProtocol(transport);
             client = new ArticleThriftService.Client(protocol);
             transport.open();
-            articleComponent.setClient(this);
-            articleComponent.updatePanel();
         } catch (TException e) {
-
             System.exit(-1);
         }
     }

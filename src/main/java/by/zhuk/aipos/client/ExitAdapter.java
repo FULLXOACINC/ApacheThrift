@@ -20,7 +20,6 @@ public class ExitAdapter extends WindowAdapter {
                 JOptionPane.QUESTION_MESSAGE, null, null, null);
         if (confirm == 0) {
             mainWindow.transportClose();
-            MainWindow.logger.info("Exit client");
             System.exit(0);
         }
     }

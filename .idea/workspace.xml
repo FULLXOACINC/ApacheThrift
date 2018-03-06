@@ -2,119 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a1e594-4884-4ad1-88fc-c12b6c19ff5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/articles/Java/examples" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_6_0.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/AIPOS_2_3.iml" afterPath="$PROJECT_DIR$/AIPOS_2_3.iml" />
-      <change beforePath="$PROJECT_DIR$/articles/3/body" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/3/exemples" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/3/intro" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/4/body" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/4/exemples" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/4/intro" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/5/body" afterPath="$PROJECT_DIR$/articles/Java/body" />
-      <change beforePath="$PROJECT_DIR$/articles/5/exemples" afterPath="$PROJECT_DIR$/articles/variable/examples" />
-      <change beforePath="$PROJECT_DIR$/articles/5/intro" afterPath="$PROJECT_DIR$/articles/Java/intro" />
-      <change beforePath="$PROJECT_DIR$/articles/inheritance/exemples" afterPath="$PROJECT_DIR$/articles/inheritance/examples" />
-      <change beforePath="$PROJECT_DIR$/articles/variable/exemples" afterPath="$PROJECT_DIR$/articles/Java/examples" />
+      <change beforePath="$PROJECT_DIR$/articles/Java/body" afterPath="$PROJECT_DIR$/articles/Java/body" />
+      <change beforePath="$PROJECT_DIR$/articles/Java/examples" afterPath="$PROJECT_DIR$/articles/Java/examples" />
+      <change beforePath="$PROJECT_DIR$/articles/Java/intro" afterPath="$PROJECT_DIR$/articles/Java/intro" />
+      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/body" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/examples" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/intro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/inheritance/body" afterPath="$PROJECT_DIR$/articles/inheritance/body" />
+      <change beforePath="$PROJECT_DIR$/articles/inheritance/examples" afterPath="$PROJECT_DIR$/articles/inheritance/examples" />
+      <change beforePath="$PROJECT_DIR$/articles/inheritance/intro" afterPath="$PROJECT_DIR$/articles/inheritance/intro" />
+      <change beforePath="$PROJECT_DIR$/articles/variable/body" afterPath="$PROJECT_DIR$/articles/variable/body" />
+      <change beforePath="$PROJECT_DIR$/articles/variable/examples" afterPath="$PROJECT_DIR$/articles/variable/examples" />
+      <change beforePath="$PROJECT_DIR$/articles/variable/intro" afterPath="$PROJECT_DIR$/articles/variable/intro" />
+      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/body" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/examples" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/intro" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/ArticleService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/IArticleService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/Article.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/AddDialog.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/AddDialog.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleClient.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleClient.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleComponent.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleComponent.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ExitAdapter.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ExitAdapter.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/MainWindow.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/MainWindow.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/server/ArticleServer.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/server/ArticleServer.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/service/ArticleService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/service/IArticleService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$1.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$Factory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$Factory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$deleteArticle_call.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$deleteArticle_call.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$getArticle_call.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$getArticle_call.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$getArticlesName_call.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$getArticlesName_call.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$saveArticle_call.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient$saveArticle_call.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncClient.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncIface.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncIface.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$deleteArticle$1.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$deleteArticle$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$deleteArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$deleteArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticle$1.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticle$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticlesName$1.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticlesName$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticlesName.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$getArticlesName.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$saveArticle$1.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$saveArticle$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$saveArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor$saveArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$AsyncProcessor.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Client$Factory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Client$Factory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Client.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Client.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Iface.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Iface.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$deleteArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$deleteArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$getArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$getArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$getArticlesName.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$getArticlesName.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$saveArticle.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor$saveArticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$Processor.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args$deleteArticle_argsTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_args.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result$deleteArticle_resultTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$deleteArticle_result.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args$getArticle_argsTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_args.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result$getArticle_resultTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticle_result.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args$getArticlesName_argsTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_args.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result$getArticlesName_resultTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$getArticlesName_result.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args$saveArticle_argsTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_args.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$_Fields.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultStandardScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultStandardSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultTupleScheme.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result$saveArticle_resultTupleSchemeFactory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService$saveArticle_result.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftService.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/model/Article.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -127,38 +48,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
+      <file leaf-file-name="ArticleComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="616">
+              <caret line="56" column="26" lean-forward="false" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
               <folding>
-                <element signature="method#makeButton#0;class#MainWindow#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleThriftServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="110" column="9" lean-forward="false" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-              <folding>
-                <element signature="method#deleteArticle#0;class#ArticleThriftServiceImpl#0" expanded="false" />
-                <element signature="method#updateArticle#0;class#ArticleThriftServiceImpl#0" expanded="false" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="method#updateContent#0;class#ArticleComponent#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -167,38 +65,69 @@
       <file leaf-file-name="ArticleThrift.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1116">
-              <caret line="148" column="23" lean-forward="false" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
+            <state relative-caret-position="246">
+              <caret line="673" column="48" lean-forward="false" selection-start-line="673" selection-start-column="48" selection-end-line="673" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArticleClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
+      <file leaf-file-name="UpdateDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="73" column="76" lean-forward="false" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="76" />
+            <state relative-caret-position="810">
+              <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+              <folding>
+                <element signature="method#haveEmptyField#0;class#UpdateDialog#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+                <element signature="method#createToolBar#0;class#MainWindow#0" expanded="false" />
+                <element signature="e#4018#4019#0" expanded="true" />
+                <element signature="e#4054#4055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleThriftServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddDialog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleThriftService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="356" column="17" lean-forward="false" selection-start-line="356" selection-start-column="17" selection-end-line="356" selection-end-column="17" />
+            <state relative-caret-position="93">
+              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -212,6 +141,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>articleComponent</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -230,9 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/IArticleServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/IArticleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/article.thrift" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/CatalogServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java" />
         <option value="$PROJECT_DIR$/articles/classes/body" />
         <option value="$PROJECT_DIR$/articles/classes/intro" />
@@ -249,13 +181,19 @@
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/ArticleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" />
         <option value="$PROJECT_DIR$/articles/Java/intro" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/ArticleThrift.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/DialogFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j" />
       </list>
     </option>
   </component>
@@ -282,10 +220,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="393" />
-    <option name="y" value="52" />
-    <option name="width" value="1275" />
-    <option name="height" value="686" />
+    <option name="x" value="81" />
+    <option name="y" value="24" />
+    <option name="width" value="1285" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -304,8 +242,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -348,15 +286,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="aipos" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aipos" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
@@ -408,7 +337,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SOAP_SERVER" />
     <property name="SearchEverywhereHistoryKey" value="slf4j&#9;PSI&#9;JAVA://org.slf4j.LoggerFactory#messageContainsOrgSlf4jImplStaticLoggerBinder&#10;sl&#9;FILE&#9;file:///home/alex/IdeaProjects/AIPOS_2_3/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
   </component>
   <component name="RecentsManager">
@@ -585,12 +514,16 @@
       <workItem from="1518604380637" duration="84000" />
       <workItem from="1519133020962" duration="1269000" />
       <workItem from="1520185340298" duration="3079000" />
-      <workItem from="1520247578541" duration="905000" />
+      <workItem from="1520247578541" duration="3457000" />
+      <workItem from="1520252165599" duration="1097000" />
+      <workItem from="1520349751494" duration="1021000" />
+      <workItem from="1520352313350" duration="3348000" />
+      <workItem from="1520363704398" duration="5461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41058000" />
+    <option name="totallyTimeSpent" value="54537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,19 +541,19 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3462783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28087166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30024213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -632,9 +565,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +578,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java</url>
+          <line>659</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -655,145 +602,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-          <folding>
-            <element signature="method#makeButton#0;class#MainWindow#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="73" column="39" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/StudentGroupServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/StudentGroupService.java" />
-    <entry file="file://$PROJECT_DIR$/articles/classes/body" />
-    <entry file="file://$PROJECT_DIR$/articles/classes/intro" />
-    <entry file="file://$PROJECT_DIR$/articles/classes/exemples" />
-    <entry file="file://$PROJECT_DIR$/articles/inheritance/body">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/inheritance/intro">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/inheritance/examples">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/polymorphism/body" />
-    <entry file="file://$PROJECT_DIR$/articles/polymorphism/exemples" />
-    <entry file="file://$PROJECT_DIR$/articles/polymorphism/intro" />
-    <entry file="file://$PROJECT_DIR$/articles/variable/intro">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/variable/body">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TSocket.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/Thread.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="211" column="24" lean-forward="false" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TServiceClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/awt/event/ActionListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/server/AbstractNonblockingServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/server/TNonblockingServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TBaseProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/ProcessFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/ClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/IArticleService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/ArticleService.java" />
     <entry file="file://$PROJECT_DIR$/AIPOS_2_3.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -817,53 +625,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hs_err_pid5205.log" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/article.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="73" column="76" lean-forward="false" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -878,21 +639,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/io/File.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="305">
+          <caret line="440" column="55" lean-forward="false" selection-start-line="440" selection-start-column="55" selection-end-line="440" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/io/FileSystem.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="197">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/variable/examples">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/body" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/Article.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -904,57 +677,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/article.thrift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="108">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar!/org/apache/logging/log4j/Level.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/DialogFactory.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/ThreadLocal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/ref/Reference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/ref/SoftReference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/nio/charset/CharsetEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="316" column="0" lean-forward="false" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/StringCoding.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="294" column="0" lean-forward="false" selection-start-line="294" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TBinaryProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TTupleProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="15" lean-forward="true" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/util/BitSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="92" column="31" lean-forward="false" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
           <folding>
-            <element signature="method#makeButton#0;class#MainWindow#0" expanded="false" />
+            <element signature="method#AddDialog#0;class#AddDialog#0" expanded="false" />
+            <element signature="method#closeDialog#0;class#AddDialog#0" expanded="false" />
+            <element signature="method#createFrame#0;class#AddDialog#0" expanded="false" />
+            <element signature="method#checkAndSave#0;class#AddDialog#0" expanded="false" />
+            <element signature="method#haveEmptyField#0;class#AddDialog#0" expanded="false" />
+            <element signature="method#saveArticle#0;class#AddDialog#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/io/File.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="440" column="55" lean-forward="false" selection-start-line="440" selection-start-column="55" selection-end-line="440" selection-end-column="55" />
+        <state relative-caret-position="324">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/io/FileSystem.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="810">
+          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="method#haveEmptyField#0;class#UpdateDialog#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1116">
-          <caret line="148" column="23" lean-forward="false" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
+        <state relative-caret-position="246">
+          <caret line="673" column="48" lean-forward="false" selection-start-line="673" selection-start-column="48" selection-end-line="673" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="356" column="17" lean-forward="false" selection-start-line="356" selection-start-column="17" selection-end-line="356" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="616">
+          <caret line="56" column="26" lean-forward="false" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="method#updateContent#0;class#ArticleComponent#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/articles/variable/examples">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/body">
+    <entry file="file://$PROJECT_DIR$/logs/app.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -962,14 +873,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid3668.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="method#createToolBar#0;class#MainWindow#0" expanded="false" />
+            <element signature="e#4018#4019#0" expanded="true" />
+            <element signature="e#4054#4055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TIOStreamTransport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TServiceClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TSerializable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="90" column="12" lean-forward="false" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="110" column="9" lean-forward="false" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-          <folding>
-            <element signature="method#deleteArticle#0;class#ArticleThriftServiceImpl#0" expanded="false" />
-            <element signature="method#updateArticle#0;class#ArticleThriftServiceImpl#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
