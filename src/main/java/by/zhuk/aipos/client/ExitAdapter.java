@@ -19,7 +19,7 @@ public class ExitAdapter extends WindowAdapter {
                 "Exit Confirmation", JOptionPane.YES_NO_OPTION,
                 JOptionPane.QUESTION_MESSAGE, null, null, null);
         if (confirm == 0) {
-            mainWindow.transportClose();
+            mainWindow.transportEnd();
             System.exit(0);
         }
     }

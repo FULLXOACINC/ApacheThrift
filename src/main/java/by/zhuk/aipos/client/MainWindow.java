@@ -46,8 +46,14 @@ public class MainWindow {
         toolBar.setFloatable(false);
         toolBar.add(makeButton(new JButton(), "ADD.png", actionEvent -> addArticle()));
         toolBar.add(makeButton(new JButton(), "DELETE.png", actionEvent -> deleteArticle()));
-        toolBar.add(makeButton(new JButton(), "DELETE.png", actionEvent -> updateArticle()));
+        toolBar.add(makeButton(new JButton(), "UPDATE.png", actionEvent -> updateArticle()));
+        toolBar.add(makeButton(new JButton(), "RECONNECT.png", actionEvent -> reconnect()));
+
         return toolBar;
+    }
+
+    private void reconnect() {
+        articleClient.reconnect();
     }
 
     private void addArticle() {
@@ -68,7 +74,7 @@ public class MainWindow {
                 try {
                     getArticleClient().deleteArticle(articleThrift.getName());
                 } catch (TException e) {
-                    logger.error("Can not delete article",e);
+                    logger.error("Can not delete article", e);
                 }
                 updateTable();
             }
@@ -84,7 +90,7 @@ public class MainWindow {
     private void updateArticle() {
         ArticleThrift articleThrift = articleComponent.getSelectedArticle();
         if (articleThrift != null) {
-            UpdateDialog dialog = new UpdateDialog(articleClient, "Update Article "+articleThrift.getName(),articleThrift);
+            UpdateDialog dialog = new UpdateDialog(articleClient, "Update Article " + articleThrift.getName(), articleThrift);
             dialog.show();
             articleComponent.updatePanel();
         } else {
@@ -102,19 +108,16 @@ public class MainWindow {
     }
 
     private void runClient() {
-        articleClient = new ArticleClient(host, PORT, articleComponent);
-        articleClient.start();
+        articleClient = new ArticleClient(host, PORT);
+        Thread thread = new Thread(articleClient);
+        thread.start();
         try {
-            articleClient.join();
+            thread.join();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            logger.error("Unknown error ",e);
         }
         articleComponent.setClient(articleClient);
         articleComponent.updatePanel();
-    }
-
-    public void transportClose() {
-        articleClient.transportClose();
     }
 
     private ArticleClient getArticleClient() {
@@ -130,4 +133,7 @@ public class MainWindow {
     }
 
 
+    public void transportEnd() {
+        articleClient.transportEnd();
+    }
 }

@@ -13,7 +13,6 @@ import java.awt.*;
 
 public class ArticleServer {
 
-
     private final static int PORT = 8080;
     private static JTextArea textArea;
 

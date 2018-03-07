@@ -2,40 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a1e594-4884-4ad1-88fc-c12b6c19ff5b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AIPOS_2_3.iml" afterPath="$PROJECT_DIR$/AIPOS_2_3.iml" />
       <change beforePath="$PROJECT_DIR$/articles/Java/body" afterPath="$PROJECT_DIR$/articles/Java/body" />
       <change beforePath="$PROJECT_DIR$/articles/Java/examples" afterPath="$PROJECT_DIR$/articles/Java/examples" />
       <change beforePath="$PROJECT_DIR$/articles/Java/intro" afterPath="$PROJECT_DIR$/articles/Java/intro" />
-      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/body" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/examples" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/fghjkl&#9;fghjkl&#9;/intro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/ffffffffff/body" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/ffffffffff/examples" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/ffffffffff/intro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/fffffffffff/body" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/fffffffffff/examples" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/fffffffffff/intro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/gg/body" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/gg/examples" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/articles/gg/intro" afterPath="" />
       <change beforePath="$PROJECT_DIR$/articles/inheritance/body" afterPath="$PROJECT_DIR$/articles/inheritance/body" />
       <change beforePath="$PROJECT_DIR$/articles/inheritance/examples" afterPath="$PROJECT_DIR$/articles/inheritance/examples" />
       <change beforePath="$PROJECT_DIR$/articles/inheritance/intro" afterPath="$PROJECT_DIR$/articles/inheritance/intro" />
       <change beforePath="$PROJECT_DIR$/articles/variable/body" afterPath="$PROJECT_DIR$/articles/variable/body" />
       <change beforePath="$PROJECT_DIR$/articles/variable/examples" afterPath="$PROJECT_DIR$/articles/variable/examples" />
       <change beforePath="$PROJECT_DIR$/articles/variable/intro" afterPath="$PROJECT_DIR$/articles/variable/intro" />
-      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/body" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/examples" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/articles/wwwwwwwww/intro" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/img/ADD.png" afterPath="$PROJECT_DIR$/img/ADD.png" />
+      <change beforePath="$PROJECT_DIR$/img/DELETE.png" afterPath="$PROJECT_DIR$/img/DELETE.png" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/Article.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleClient.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleClient.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleComponent.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ArticleComponent.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ExitAdapter.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/ExitAdapter.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/MainWindow.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/client/MainWindow.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/model/Article.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" afterPath="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,8 +43,8 @@
       <file leaf-file-name="ArticleComponent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="56" column="26" lean-forward="false" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+            <state relative-caret-position="75">
+              <caret line="69" column="32" lean-forward="false" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
               <folding>
                 <element signature="e#1003#1004#0" expanded="true" />
                 <element signature="e#1041#1042#0" expanded="true" />
@@ -62,10 +54,159 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ArticleClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TFramedTransport.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1518392089078" expanded="true" signature="674:755" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="807:887" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="939:978" ph="{...}" />
+                <marker date="1518392089078" expanded="false" signature="1007:1018" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1050:1056" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1081:1092" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1116:1122" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="1201:1425" ph="{...}" />
+                <marker date="1518392089078" expanded="false" signature="1456:1467" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1503:1509" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1545:1556" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1600:1606" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1650:1661" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1713:1719" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1759:1770" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1806:1812" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1837:1848" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1873:1879" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="1937:2546" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2627:2682" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2735:3036" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3110:3302" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3360:3464" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3524:3866" ph="{...}" />
+                <marker date="1518392089078" expanded="false" signature="3583:3598" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="3625:3635" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="3674:3689" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="3717:3727" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="3784:3799" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="3850:3860" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TBinaryProtocol.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TBinaryProtocol.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="147" column="27" lean-forward="false" selection-start-line="147" selection-start-column="27" selection-end-line="147" selection-end-column="27" />
+              <folding>
+                <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1518392089078" expanded="false" signature="150:299" ph="..." />
+                <marker date="1518392089078" expanded="true" signature="821:832" ph=" { " />
+                <marker date="1518392089078" expanded="true" signature="857:863" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="951:1014" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1112:1194" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1333:1592" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1664:2036" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2072:2079" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2130:2137" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2172:2179" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2245:2321" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2355:2362" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2415:2455" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2515:2631" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2663:2670" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2733:2813" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2846:2853" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="2913:2991" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3023:3030" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="3087:3137" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3191:3278" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3334:3489" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3543:3804" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="3859:4396" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="4456:4516" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="4576:4863" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="4927:5100" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="5159:5775" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="5810:5817" ph="{}" />
+                <marker date="1518392089078" expanded="false" signature="5855:5866" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="5890:5896" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="5930:5937" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="5992:6128" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="6161:6168" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="6219:6374" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="6405:6412" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="6465:6608" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="6640:6647" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="6698:6836" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="6867:6874" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="6924:6968" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="7015:7338" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="7385:7790" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="7835:8289" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="8335:8955" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="9006:9069" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="9120:9685" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="9748:10073" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="10128:10608" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="10687:10987" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="11069:11375" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="11449:11507" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="11569:12643" ph="{...}" />
+                <marker date="1518392089078" expanded="false" signature="11764:11779" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="11797:11807" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="11872:11887" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="11927:11937" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="12013:12096" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="12213:12432" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="12489:12637" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TTransport.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TTransport.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+              <folding>
+                <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1518392089078" expanded="true" signature="251:258" ph="{}" />
+                <marker date="1518392089078" expanded="false" signature="324:335" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="356:362" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="631:1116" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1179:1226" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1372:1379" ph="{}" />
+                <marker date="1518392089078" expanded="false" signature="1410:1421" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1433:1439" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1475:1486" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1495:1501" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="1545:1556" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="1566:1572" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="1613:1620" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ArticleThrift.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="57">
               <caret line="673" column="48" lean-forward="false" selection-start-line="673" selection-start-column="48" selection-end-line="673" selection-end-column="48" />
               <folding />
             </state>
@@ -75,7 +216,7 @@
       <file leaf-file-name="UpdateDialog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
+            <state relative-caret-position="270">
               <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
               <folding>
                 <element signature="method#haveEmptyField#0;class#UpdateDialog#0" expanded="false" />
@@ -87,47 +228,46 @@
       <file leaf-file-name="ArticleServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1139#1140#0" expanded="true" />
-                <element signature="e#1185#1186#0" expanded="true" />
-                <element signature="method#createToolBar#0;class#MainWindow#0" expanded="false" />
-                <element signature="e#4018#4019#0" expanded="true" />
-                <element signature="e#4054#4055#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleThriftServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="TIOStreamTransport.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TIOStreamTransport.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="129">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding>
+                <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1518392089078" expanded="false" signature="151:285" ph="..." />
+                <marker date="1518392089078" expanded="true" signature="574:581" ph="{}" />
+                <marker date="1518392089078" expanded="false" signature="628:639" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="662:668" ph=" }" />
+                <marker date="1518392089078" expanded="false" signature="716:727" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="751:757" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="822:894" ph="{...}" />
+                <marker date="1518392089078" expanded="false" signature="923:934" ph=" { " />
+                <marker date="1518392089078" expanded="false" signature="946:952" ph=" }" />
+                <marker date="1518392089078" expanded="true" signature="1004:1011" ph="{}" />
+                <marker date="1518392089078" expanded="true" signature="1037:1594" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="1673:2207" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2288:2633" ph="{...}" />
+                <marker date="1518392089078" expanded="true" signature="2686:3015" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExitAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -179,21 +319,21 @@
         <option value="$PROJECT_DIR$/articles/variable/exemples" />
         <option value="$PROJECT_DIR$/articles/variable/intro" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/ArticleService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" />
         <option value="$PROJECT_DIR$/articles/Java/intro" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/AddDialog.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/model/ArticleThrift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/DialogFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java" />
       </list>
     </option>
   </component>
@@ -242,45 +382,45 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="aipos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -288,8 +428,8 @@
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -297,8 +437,8 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -306,22 +446,11 @@
               <item name="thrift" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="ApacheThrift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheThrift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIPOS_2_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIPOS_2_3" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,7 +466,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SOAP_SERVER" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="slf4j&#9;PSI&#9;JAVA://org.slf4j.LoggerFactory#messageContainsOrgSlf4jImplStaticLoggerBinder&#10;sl&#9;FILE&#9;file:///home/alex/IdeaProjects/AIPOS_2_3/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
   </component>
   <component name="RecentsManager">
@@ -519,11 +648,12 @@
       <workItem from="1520349751494" duration="1021000" />
       <workItem from="1520352313350" duration="3348000" />
       <workItem from="1520363704398" duration="5461000" />
+      <workItem from="1520422876261" duration="4627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54537000" />
+    <option name="totallyTimeSpent" value="59164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,8 +665,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="24" width="1285" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="81" y="52" width="1285" height="716" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -547,20 +676,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3462783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30024213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30508474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -580,12 +709,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java</url>
           <line>659</line>
           <properties />
@@ -602,7 +725,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/service/ArticleService.java" />
     <entry file="file://$PROJECT_DIR$/AIPOS_2_3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -625,13 +747,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hs_err_pid5205.log" />
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/org/slf4j/LoggerFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -669,14 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/article.thrift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -710,13 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -776,21 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TBinaryProtocol.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/TBase.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
@@ -827,98 +914,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
-          <folding>
-            <element signature="method#haveEmptyField#0;class#UpdateDialog#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="673" column="48" lean-forward="false" selection-start-line="673" selection-start-column="48" selection-end-line="673" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="56" column="26" lean-forward="false" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-          <folding>
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="method#updateContent#0;class#ArticleComponent#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/app.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid3668.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/app.log" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid3668.log" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1139#1140#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="method#createToolBar#0;class#MainWindow#0" expanded="false" />
-            <element signature="e#4018#4019#0" expanded="true" />
-            <element signature="e#4054#4055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TIOStreamTransport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,19 +952,250 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThriftServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="18">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ExitAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/thrift/ArticleThrift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="673" column="48" lean-forward="false" selection-start-line="673" selection-start-column="48" selection-end-line="673" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TIOStreamTransport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518392089078" expanded="false" signature="151:285" ph="..." />
+            <marker date="1518392089078" expanded="true" signature="574:581" ph="{}" />
+            <marker date="1518392089078" expanded="false" signature="628:639" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="662:668" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="751:757" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="822:894" ph="{...}" />
+            <marker date="1518392089078" expanded="false" signature="923:934" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="946:952" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="1004:1011" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="1037:1594" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1673:2207" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2288:2633" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2686:3015" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="69" column="32" lean-forward="false" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+          <folding>
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="method#updateContent#0;class#ArticleComponent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/UpdateDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="method#haveEmptyField#0;class#UpdateDialog#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1139#1140#0" expanded="false" />
+            <element signature="e#1185#1186#0" expanded="false" />
+            <element signature="e#1737#1738#0" expanded="false" />
+            <element signature="e#1778#1779#0" expanded="false" />
+            <element signature="e#4139#4140#0" expanded="false" />
+            <element signature="e#4175#4176#0" expanded="false" />
+            <element signature="e#4493#4494#0" expanded="false" />
+            <element signature="e#4537#4538#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/server/ArticleServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TTransport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518392089078" expanded="true" signature="251:258" ph="{}" />
+            <marker date="1518392089078" expanded="false" signature="324:335" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="356:362" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="631:1116" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1179:1226" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1372:1379" ph="{}" />
+            <marker date="1518392089078" expanded="false" signature="1410:1421" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1433:1439" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1475:1486" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1495:1501" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1545:1556" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1566:1572" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="1613:1620" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/protocol/TBinaryProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="147" column="27" lean-forward="false" selection-start-line="147" selection-start-column="27" selection-end-line="147" selection-end-column="27" />
+          <folding>
+            <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518392089078" expanded="false" signature="150:299" ph="..." />
+            <marker date="1518392089078" expanded="true" signature="821:832" ph=" { " />
+            <marker date="1518392089078" expanded="true" signature="857:863" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="951:1014" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1112:1194" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1333:1592" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="1664:2036" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2072:2079" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2130:2137" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2172:2179" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2245:2321" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2355:2362" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2415:2455" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2515:2631" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2663:2670" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2733:2813" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2846:2853" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="2913:2991" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3023:3030" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="3087:3137" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3191:3278" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3334:3489" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3543:3804" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3859:4396" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="4456:4516" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="4576:4863" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="4927:5100" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="5159:5775" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="5810:5817" ph="{}" />
+            <marker date="1518392089078" expanded="false" signature="5855:5866" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="5890:5896" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="5930:5937" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="5992:6128" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="6161:6168" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="6219:6374" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="6405:6412" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="6465:6608" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="6640:6647" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="6698:6836" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="6867:6874" ph="{}" />
+            <marker date="1518392089078" expanded="true" signature="6924:6968" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="7015:7338" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="7385:7790" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="7835:8289" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="8335:8955" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="9006:9069" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="9120:9685" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="9748:10073" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="10128:10608" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="10687:10987" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="11069:11375" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="11449:11507" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="11569:12643" ph="{...}" />
+            <marker date="1518392089078" expanded="false" signature="11764:11779" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="11797:11807" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="11872:11887" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="11927:11937" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="12013:12096" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="12213:12432" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="12489:12637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/zhuk/aipos/client/ArticleClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <marker date="1518392089078" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518392089078" expanded="true" signature="674:755" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="807:887" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="939:978" ph="{...}" />
+            <marker date="1518392089078" expanded="false" signature="1007:1018" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1050:1056" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1081:1092" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1116:1122" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="1201:1425" ph="{...}" />
+            <marker date="1518392089078" expanded="false" signature="1456:1467" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1503:1509" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1545:1556" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1600:1606" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1650:1661" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1713:1719" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1759:1770" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1806:1812" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="1837:1848" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="1873:1879" ph=" }" />
+            <marker date="1518392089078" expanded="true" signature="1937:2546" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2627:2682" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="2735:3036" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3110:3302" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3360:3464" ph="{...}" />
+            <marker date="1518392089078" expanded="true" signature="3524:3866" ph="{...}" />
+            <marker date="1518392089078" expanded="false" signature="3583:3598" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="3625:3635" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="3674:3689" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="3717:3727" ph=" }" />
+            <marker date="1518392089078" expanded="false" signature="3784:3799" ph=" { " />
+            <marker date="1518392089078" expanded="false" signature="3850:3860" ph=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
